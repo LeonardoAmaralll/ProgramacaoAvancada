@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1653614567 source:c:\users\leo\desktop\labirinto_mod3\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653614120 c:\users\leo\desktop\labirinto_mod3\coord.h
+	<iostream>
+
+1648822504 source:c:\users\leo\desktop\labirinto_mod3\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1653621066 c:\users\leo\desktop\labirinto_mod3\labirinto.h
+	<vector>
+	"coord.h"
+
+1653661356 source:c:\users\leo\desktop\labirinto_mod4\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653614120 c:\users\leo\desktop\labirinto_mod4\coord.h
+	<iostream>
+
+1653659952 source:c:\users\leo\desktop\labirinto_mod4\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<math.h>
+	"labirinto.h"
+
+1653659760 c:\users\leo\desktop\labirinto_mod4\labirinto.h
+	<vector>
+	"coord.h"
+
+1648822504 source:c:\users\leo\desktop\labirinto_mod4\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1653661358 source:c:\users\leonardo amaral\desktop\programação avançada\projeto 2-1\labirinto_mod5\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653614122 c:\users\leonardo amaral\desktop\programação avançada\projeto 2-1\labirinto_mod5\coord.h
+	<iostream>
+
+1648822504 source:c:\users\leonardo amaral\desktop\programação avançada\projeto 2-1\labirinto_mod5\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1653679150 c:\users\leonardo amaral\desktop\programação avançada\projeto 2-1\labirinto_mod5\labirinto.h
+	<vector>
+	"coord.h"
+
+1653686537 source:c:\users\ufrnlab\desktop\labirinto_mod6\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653686535 c:\users\ufrnlab\desktop\labirinto_mod6\coord.h
+	<iostream>
+
+1648822504 source:c:\users\ufrnlab\desktop\labirinto_mod6\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1653686461 c:\users\ufrnlab\desktop\labirinto_mod6\labirinto.h
+	<vector>
+	"coord.h"
+
+1653682937 source:c:\users\ufrnlab\desktop\labirinto_mod6\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<math.h>
+	"labirinto.h"
+
+1648822504 source:c:\users\leo\desktop\labirinto_mod7\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1653694322 c:\users\leo\desktop\labirinto_mod7\labirinto.h
+	<vector>
+	"coord.h"
+
+1653693907 c:\users\leo\desktop\labirinto_mod7\coord.h
+	<iostream>
+
+1653693907 source:c:\users\leo\desktop\labirinto_mod7\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653694411 source:c:\users\leo\desktop\labirinto_mod7\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<math.h>
+	"labirinto.h"
+
+1653693907 source:c:\users\leo\desktop\labirinto_final\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653693907 c:\users\leo\desktop\labirinto_final\coord.h
+	<iostream>
+
+1653694411 source:c:\users\leo\desktop\labirinto_final\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<math.h>
+	"labirinto.h"
+
+1653694322 c:\users\leo\desktop\labirinto_final\labirinto.h
+	<vector>
+	"coord.h"
+
+1648822504 source:c:\users\leo\desktop\labirinto_final\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+

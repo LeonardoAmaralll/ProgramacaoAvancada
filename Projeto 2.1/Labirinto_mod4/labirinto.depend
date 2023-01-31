@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1653614567 source:c:\users\leo\desktop\labirinto_mod3\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653614120 c:\users\leo\desktop\labirinto_mod3\coord.h
+	<iostream>
+
+1648822504 source:c:\users\leo\desktop\labirinto_mod3\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1653621066 c:\users\leo\desktop\labirinto_mod3\labirinto.h
+	<vector>
+	"coord.h"
+
+1653661356 source:c:\users\leo\desktop\labirinto_mod4\coord.cpp
+	<cmath>
+	"coord.h"
+
+1653614120 c:\users\leo\desktop\labirinto_mod4\coord.h
+	<iostream>
+
+1653659952 source:c:\users\leo\desktop\labirinto_mod4\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<math.h>
+	"labirinto.h"
+
+1653659760 c:\users\leo\desktop\labirinto_mod4\labirinto.h
+	<vector>
+	"coord.h"
+
+1648822504 source:c:\users\leo\desktop\labirinto_mod4\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+

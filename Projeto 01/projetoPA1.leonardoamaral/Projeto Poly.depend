@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651781384 source:c:\users\leo\desktop\projetopa1.leonardoamaral\poly-main.cpp
+	<iostream>
+	<string>
+	"Poly.h"
+
+1651784000 c:\users\leo\desktop\projetopa1.leonardoamaral\poly.h
+	<iostream>
+
+1651867167 source:c:\users\leo\desktop\projetopa1.leonardoamaral\poly.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	"Poly.h"
+

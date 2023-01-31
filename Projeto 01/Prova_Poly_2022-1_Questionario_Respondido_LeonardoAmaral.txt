@@ -1,0 +1,39 @@
+PROVA - PROGRAMAÇÃO AVANÇADA - 2022.1
+1ª UNIDADE
+
+
+Alun@: Leonardo Carvalho Amaral
+
+
+A avaliação consiste de 28 (vinte e oito) questões, cujos enunciados encontram-se no arquivo com as questões da prova.
+
+Assinale se o resultado da execução do seu programa foi 100% correto, comparado com a resposta esperada (o gabarito encontra-se no arquivo com as questões da prova). Se foi incorreto, explique resumidamente o que deu errado.
+
+Questão 01:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 02:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 03:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 04:  (X) 100% correto   ( ) Incorreto: _____
+Questão 05:  (X) 100% correto   ( ) Incorreto: _____
+Questão 06:  (X) 100% correto   ( ) Incorreto: _____
+Questão 07:  (X) 100% correto   ( ) Incorreto: _____
+Questão 08:  (X) 100% correto   ( ) Incorreto: _____
+Questão 09:  ( ) 100% correto   (X) Incorreto: O programa não está colocando o '+' entre certos valores.
+Questão 10:  ( ) 100% correto   (X) Incorreto: O programa não está colocando o '+' entre certos valores.
+Questão 11:  ( ) 100% correto   (X) Incorreto: O programa parou a execução por causa de um erro.
+Questão 12:  ( ) 100% correto   (X) Incorreto: O programa não está colocando o '+' entre certos valores.
+Questão 13:  ( ) 100% correto   (X) Incorreto: O programa não está colocando o '+' entre certos valores.
+Questão 14:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 15:  (X) 100% correto   ( ) Incorreto: _____
+Questão 16:  ( ) 100% correto   (X) Incorreto: O programa não está lendo os arquivos.
+Questão 17:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 18:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 19:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 20:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 21:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 22:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo e não está colocando '+' entre certos valores.
+Questão 23:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo e não está colocando '+' entre certos valores.
+Questão 24:  ( ) 100% correto   (X) Incorreto: O programa não está colocando o '+' entre certos valores.
+Questão 25:  (X) 100% correto   ( ) Incorreto: _____
+Questão 26:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 27:  ( ) 100% correto   (X) Incorreto: O programa não está mostrando o 0 para Polinômios de grau nulo.
+Questão 28:  (X) 100% correto   ( ) Incorreto: _____
