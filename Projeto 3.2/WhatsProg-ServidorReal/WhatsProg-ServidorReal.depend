@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1649096433 source:c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\mysocket.cpp
+	<iostream>
+	<string.h>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1658451524 c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1649444539 source:c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\whatsprog_dados.cpp
+	"whatsprog_dados.h"
+
+1649444539 c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\whatsprog_dados.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdint.h>
+	<list>
+
+1658711647 source:c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\whatsprog_dados_servidorreal.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	"whatsprog_dados_servidorREAL.h"
+
+1658709802 source:c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\main_servidor.cpp
+	<iostream>
+	<thread>
+	"whatsprog_dados.h"
+	"whatsprog_dados_servidorREAL.h"
+
+1658713387 c:\users\leona\onedrive\Área de trabalho\ufrn\2022.1\programação avançada\projeto 3.2\whatsprog-servidorreal\whatsprog_dados_servidorreal.h
+	<string>
+	<list>
+	"mysocket.h"
+	"whatsprog_dados.h"
+
